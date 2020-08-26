@@ -43,7 +43,6 @@
     </dependencyManagement>
     <build>
         <plugins>
-
             <!-- Compiler 插件, 设定 JDK 版本 -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
