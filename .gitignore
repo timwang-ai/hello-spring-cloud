@@ -3,7 +3,7 @@
 /hello-spring-cloud-service-admin/target/
 /hello-spring-cloud-web-admin-feign/target/
 /hello-spring-cloud-web-admin-ribbon/target/
-.idea
+.idea/libraries
 .idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml
 .idea/libraries/Maven__commons_io_commons_io_2_4.xml
 .idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_0_RELEASE.xml
