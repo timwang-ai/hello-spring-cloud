@@ -9,7 +9,6 @@
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../hello-spring-cloud-dependencies/pom.xml</relativePath>
     </parent>
-
     <artifactId>hello-spring-cloud-zuul</artifactId>
     <packaging>jar</packaging>
 
